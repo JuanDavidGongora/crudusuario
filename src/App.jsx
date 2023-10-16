@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import { BASE_URL, EMPTY_FORM_VALUES } from './constants/users';
-import Modal from './components/modal';
+import Modal from './components/Modal';
 import Header from './components/Header';
 import { useForm } from 'react-hook-form';
 import UserList from './components/UserList';
