@@ -1,4 +1,4 @@
-const BASE_URL =  "http://users-crud.academlo.tech";
+const BASE_URL =  "https://users-crud.academlo.tech";
 
 const EMPTY_FORM_VALUES = {
 
